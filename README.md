@@ -14,7 +14,7 @@ install the apk first
 ![Screenshot_1656331912](https://user-images.githubusercontent.com/76711040/175938677-8fb859f7-dac8-4dd4-881f-52b259c6724e.png)
 
 
-```First Screen
+First Screen
 just launch the app
 
 ![Screenshot_1656331916](https://user-images.githubusercontent.com/76711040/175939362-cce8266c-e718-48c3-8829-a6c9ec73d37a.png)
@@ -41,7 +41,6 @@ touch the pause button at bottom left
 touch the reset button at bottom right
 
 ![Screenshot_1656331936](https://user-images.githubusercontent.com/76711040/175939626-c8ee521d-4d28-4ef9-9023-78a42f0983c3.png)
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
