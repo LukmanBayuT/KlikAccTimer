@@ -1,10 +1,10 @@
-# Foobar
+# KlikAcc Timer
 
-Foobar is a Python library for dealing with word pluralization.
+This is an app to finish the assignment given by KlikAcc Timer
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+//if you have the APK just install it, if you don't contact me!
 
 ```bash
 pip install foobar
